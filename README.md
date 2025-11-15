@@ -7,7 +7,6 @@ Este repositório contém o projeto final para a disciplina de **Conceitos de Li
   * **Curso:** Conceitos de Linguagem de Programação
 
 -----
-
 ## Integrantes do Grupo
 
   * Kayan Santos
